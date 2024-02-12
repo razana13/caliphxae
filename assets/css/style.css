@@ -5076,7 +5076,7 @@ body.v-light .blog-item-list .background-hover::before {
   margin-right: 30px;
   display: inline-block;
   line-height: 1;
-  float: left;
+
 }
 .news-content .post-tags a:before {
   content: "#";
