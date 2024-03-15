@@ -931,7 +931,7 @@ body:not(.v-dark) .site-header .main-logo .dark-logo {
   }
 }
 .site-header .inner-header .main-logo {
-  width: 121px;
+  width: 136px;
   pointer-events: all;
 }
 .site-header .inner-header .main-logo img {
@@ -5489,7 +5489,7 @@ input[type=submit] {
   padding: 0 15px;
 }
 .footer .footer-block.block-logo a {
-  width: 110px;
+  width: 120px;
   margin-bottom: 15px;
 }
 .footer .footer-block.block-logo h6 {
